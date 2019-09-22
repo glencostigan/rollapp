@@ -14,7 +14,7 @@ const NavBar = () => {
                 loginWithRedirect({})
             }
             >
-            Log in
+            Log in here
             </button>
         )}
 
